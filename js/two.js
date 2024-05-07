@@ -3,9 +3,9 @@ var half;
 var quarter;
 
 function preload(){
-  font = loadFont('../IMFell.ttf');
-  half = loadImage('../img/half.png');
-  quarter = loadImage('../img/quarter.png');
+  font = loadFont('IMFell.ttf');
+  half = loadImage('img/half.png');
+  quarter = loadImage('img/quarter.png');
 }
 
 function setup() {

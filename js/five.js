@@ -2,7 +2,7 @@ var font;
 var mappedFill;
 
 function preload(){
-  font = loadFont('../IMFell.ttf')
+  font = loadFont('IMFell.ttf')
 }
 
 function setup() {

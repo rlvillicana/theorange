@@ -2,8 +2,8 @@ var font;
 var oranges;
 
 function preload(){
-  font = loadFont('../IMFell.ttf');
-  oranges = loadImage('../img/oranges.png');
+  font = loadFont('IMFell.ttf');
+  oranges = loadImage('img/oranges.png');
 }
 
 function setup() {

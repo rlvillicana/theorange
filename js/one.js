@@ -3,9 +3,9 @@ var orange;
 var table;
 
 function preload(){
-  font = loadFont('../IMFell.ttf');
-  orange = loadImage('../img/orange.png');
-  table = loadImage('../img/table.png');
+  font = loadFont('IMFell.ttf');
+  orange = loadImage('img/orange.png');
+  table = loadImage('img/table.png');
 }
 
 function setup() {

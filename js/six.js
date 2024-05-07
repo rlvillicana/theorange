@@ -2,8 +2,8 @@ var font;
 var list;
 
 function preload(){
-  font = loadFont('../IMFell.ttf');
-  list =loadImage('../img/list.png');
+  font = loadFont('IMFell.ttf');
+  list =loadImage('img/list.png');
 }
 
 function setup() {

@@ -4,8 +4,8 @@ let angle = 0;
 
 
 function preload(){
-  font = loadFont('../IMFell.ttf');
-  clock = loadImage('../img/clock.png');
+  font = loadFont('IMFell.ttf');
+  clock = loadImage('img/clock.png');
 }
 
 function setup() {

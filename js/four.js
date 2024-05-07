@@ -4,10 +4,10 @@ var bagg;
 var park;
 
 function preload(){
-  font = loadFont('../IMFell.ttf');
-  park = loadImage('../img/park.png');
-  bag = loadImage('../img/bag1.png');
-  bagg = loadImage('../img/bag2.png');
+  font = loadFont('IMFell.ttf');
+  park = loadImage('img/park.png');
+  bag = loadImage('img/bag1.png');
+  bagg = loadImage('img/bag2.png');
 }
 
 function setup() {
