@@ -24,7 +24,7 @@ function draw() {
     image(park,width-700,0,height-200,height-100);
   } else {
   text('Just lately. The shopping.',width/2, height/2-50);
-  image(bag, height,height/2.5,height/2,height/2);
+  image(bag, width/1.46,height/2.5,height/2,height/2);
   image(bagg, height/70, 0, height/2,height/2.5);
   }
 }

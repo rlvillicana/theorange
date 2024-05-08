@@ -17,7 +17,7 @@ function setup() {
 
 function draw() {
   background(255, 249, 237);
-  text('I peeled it and shared it with Robert and Dave—\nThey got quarters and I had a half.',width/2, height/2-20);
+  text('I peeled it and shared it with Robert and Dave—\nThey got quarters and I had a half.',width/2, height/2-45);
   if(mouseX > width/2) {
     image(half,width/1.7,height/2.4, width/2.7, width/2.7);
   } 

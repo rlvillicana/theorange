@@ -14,7 +14,7 @@ function setup() {
 
 function draw() {
   background(255, 249, 237);
-  mappedFill = map(mouseY, 0, height, 50, 150);
+  mappedFill = map(mouseY, 0, height, 50, 240);
   fill(mappedFill, 100, 40);
   text('This is peace and contentment. It’s new.',width/2, height/2-50)
   

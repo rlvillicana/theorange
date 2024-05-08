@@ -19,6 +19,6 @@ function draw() {
   image(oranges, 0,0,width, height-100)
   text('I love you.', width/2, height/2-60);
   if (keyIsPressed) {
-  text("I'm glad I exist.", width/2, height/2-10)
+  text("I'm glad I exist.", width/2, height/2-20)
   }
 }

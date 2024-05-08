@@ -22,7 +22,7 @@ footer{
 font-family: 'IM Fell English';
 position: absolute;
 top:820px;
-left:1390px;
+left:1420px;
 }
 
 a {
@@ -33,4 +33,10 @@ color: black;
 a:visited {
 text-decoration: none;
 color:black
+}
+
+#title {
+  margin: auto;
+  text-align: center;
+  margin-top: 15%;
 }
